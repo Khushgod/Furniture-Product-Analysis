@@ -1,0 +1,128 @@
+Dataset: 2,000 furniture products
+
+====================================================================
+1. SALES PERFORMANCE ANALYSIS
+====================================================================
+
+1.1 OVERALL SALES METRICS
+--------------------------
+                               Metric                 Value
+                     Total Units Sold          46,987 units
+            Average Sales per Product            23.5 units
+             Median Sales per Product               3 units
+              Sales Range (Min - Max)      0 - 10,000 units
+                        Total Revenue         $2,181,048.07
+Potential Revenue (without discounts)         $2,670,444.32
+            Revenue Lost to Discounts $1,486,655.05 (55.7%)
+          Average Revenue per Product             $1,090.52
+
+1.2 SALES PERFORMANCE CATEGORIES
+--------------------------------
+        Sales Category  Product Count Percentage
+          No Sales (0)            451      22.6%
+      Low Sales (1-10)           1095      54.8%
+  Medium Sales (11-50)            368      18.4%
+   High Sales (51-200)             60       3.0%
+Very High Sales (200+)             26       1.3%
+
+1.3 TOP 10 BEST SELLING PRODUCTS
+---------------------------------
+ Rank                             Product Title (Truncated)  Price ($)  Units Sold  Revenue ($)
+    1       Portable round Folding Chair Accordion Chair...      12.28       10000     122800.0
+    2 MUMUCC Multifunctional Foldable And Adjustable Alu...      26.11        3000      78330.0
+    3 MUMUCC Multifunctional Foldable And Adjustable Alu...      21.94        3000      65820.0
+    4          Stylish Shoe Rack Metal Simple Shoe Shelf...      13.64        2000      27280.0
+    5            Office Furniture Computer Stand 42*26cm...      26.03        1000      26030.0
+    6          Portability Foot Rest Under Desk Footrest...       8.04        1000       8040.0
+    7          Portability Foot Rest Under Desk Footrest...       5.00         900       4500.0
+    8             Monitor Stand for 13-32 inches Screens...      66.68         900      60012.0
+    9      Portable Folding Telescopic Stool Lightweight...      11.20         900      10080.0
+   10           Shoe-shelf Shoerack Multilayer Shoe Rack...      15.40         700      10780.0
+
+====================================================================
+2. PRODUCT CATEGORY ANALYSIS
+====================================================================
+
+2.1 CATEGORY PERFORMANCE OVERVIEW
+----------------------------------
+Category  Product Count  Avg Price ($)  Total Sales (Units)  Total Revenue ($)  Avg Discount (%)  Market Share (%)
+  Tables            248         184.91                20103          519128.91              12.4              23.8
+ Bedroom            479         112.28                 5263          431109.61               9.8              19.8
+  Office            351         119.96                 8547          332984.43              13.5              15.3
+   Decor            322         225.50                 2375          330032.12               9.9              15.1
+ Seating            205         262.61                 2620          304176.84              13.5              13.9
+ Storage            364         113.04                 7556          236486.04              11.3              10.8
+   Other             31         122.15                  523           27130.12              12.2               1.2
+
+2.2 CATEGORY PERFORMANCE METRICS
+--------------------------------
+Category  Revenue per Product ($)  Sales per Product (Units)  Revenue per Unit Sold ($)
+  Tables                  2093.26                       81.1                      25.82
+ Bedroom                   900.02                       11.0                      81.91
+  Office                   948.67                       24.4                      38.96
+   Decor                  1024.94                        7.4                     138.96
+ Seating                  1483.79                       12.8                     116.10
+ Storage                   649.69                       20.8                      31.30
+   Other                   875.17                       16.9                      51.87
+
+KEY CATEGORY INSIGHTS:
+- Tables: Highest market share (23.8%) and best volume performance (81.1 sales per product)
+- Decor: Highest revenue per unit sold ($138.96) indicating premium positioning
+- Bedroom: Largest product count (479 products) but lower sales velocity
+- Office: Good balance of volume and revenue generation
+- Storage: Lowest revenue per product, potential for optimization
+
+====================================================================
+3. PRODUCT SEGMENT ANALYSIS
+====================================================================
+
+3.1 SEGMENT OVERVIEW
+--------------------
+  Segment        Segment Name  Product Count Percentage of Products  Avg Price ($)  Avg Sales (Units)  Total Revenue ($)  Avg Discount (%)
+Segment 1   Mid-Range Popular            399                  20.0%          93.97               57.0          841379.06              53.1
+Segment 2   Mid-Range Popular           1437                  71.9%         124.42                9.6          958129.04               0.4
+Segment 3 Budget Best-Sellers              1                   0.1%          12.28            10000.0          122800.00              61.7
+Segment 4  Premium Low-Volume            163                   8.2%         593.97                2.6          258739.97               7.2
+
+3.2 SEGMENT PERFORMANCE METRICS
+-------------------------------
+            Segment  Revenue Share (%)  Revenue per Product ($)  Total Units Sold
+  Mid-Range Popular               38.6                  2108.72             22743
+  Mid-Range Popular               43.9                   666.76             13795
+Budget Best-Sellers                5.6                122800.00             10000
+ Premium Low-Volume               11.9                  1587.36               423
+
+3.3 STRATEGIC RECOMMENDATIONS BY SEGMENT
+-----------------------------------------
+       Segment Name               Key Characteristics                             Strategic Recommendations Priority Level
+  Mid-Range Popular Moderate price, good sales volume Optimize for volume growth; Consider premium variants           High
+Budget Best-Sellers Very low price, exceptional sales      Scale up inventory; Maintain competitive pricing       Critical
+ Premium Low-Volume      High price, low sales volume         Evaluate pricing strategy; Improve visibility         Medium
+
+====================================================================
+SUMMARY INSIGHTS & RECOMMENDATIONS
+====================================================================
+
+SALES PERFORMANCE:
+- 77.4% of products have low to no sales (0-10 units)
+- Top 10 products generate significant revenue concentration
+- High revenue loss (55.7%) due to discounting strategy
+
+CATEGORY PERFORMANCE:
+- Tables and Bedroom categories dominate market (43.6% combined share)
+- Significant variation in revenue per unit across categories
+- Office and Storage categories show good volume potential
+
+SEGMENT INSIGHTS:
+- Segment 2 (Mid-Range Popular) represents the largest volume (71.9% of products)
+- Budget Best-Sellers segment shows exceptional performance potential
+- Premium segment needs attention for improved conversion
+
+KEY STRATEGIC PRIORITIES:
+1. Focus on Tables category expansion (highest performer)
+2. Scale Budget Best-Sellers segment (critical priority)
+3. Address non-performing products (22.6% zero sales)
+4. Optimize discount strategy to reduce revenue loss
+5. Improve Premium segment visibility and conversion
+
+====================================================================
